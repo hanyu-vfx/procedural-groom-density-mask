@@ -63,5 +63,6 @@ A compatible .mb scene file
 ---
 
 **Author**
+
 Hanyu Lee
 VFX / Technical Art
